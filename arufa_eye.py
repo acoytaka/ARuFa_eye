@@ -27,7 +27,7 @@ while True:
 
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-    faces = face_cascade.detectMultiScale(gray) # 顔検出
+    faces = face_cascade.detectMultiScale(gray)  # 顔検出
 
     for x, y, w, h in faces:
         face = frame[y: y + round(h/2), x: x + w]   # 鼻の誤検出を防ぐ
