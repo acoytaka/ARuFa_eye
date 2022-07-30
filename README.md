@@ -7,6 +7,6 @@
 
 と、いうことで某ブロガーになるべく、目線を自動でつけるプログラムを作ってみました！
 
-<img src="https://user-images.githubusercontent.com/46366459/181903931-4582a22a-5027-431f-a423-62625d79d065.gif" widht=”20%”>
+<img src="https://user-images.githubusercontent.com/46366459/181903931-4582a22a-5027-431f-a423-62625d79d065.gif" widht=”100pt”>
 
 **⚠️ 注意 ⚠️ 即席で作ったのでよく目線が外れます**
