@@ -14,6 +14,28 @@
 
 OpenCV + Pythonで動きます。
 
+## ダウンロード
+
+まずはダウンロードしてください
+```shell
+git clone https://github.com/acoytaka/ARuFa_eye.git
+```
+
+動かすのにxmlファイルが必要なので https://github.com/opencv/opencv/tree/master/data/haarcascades から
+* haarcascade_frontalface_default.xml
+* data/haarcascade_eye.xml
+をダウンロードして先程のARuFa_eyeディレクトリの中にdataディレクトリを作って入れてください
+
+
+## 使い方
+
+MacでOpenCVをインストールしていない場合
+```shell
+brew install OpenCV
+```
+
+動かすとき
 ```shell
 python3 arufa_eye.py
 ```
+動かなかったら頑張って検索して動かせるようにしてください
