@@ -7,6 +7,7 @@ window_name = 'frame'
 
 # 各自でxmlファイルをダウンロードしてください。
 # https://github.com/opencv/opencv/tree/master/data/haarcascades
+# Macでbrew installなら入ってるらしい
 
 face_cascade_path = 'data/haarcascade_frontalface_default.xml'
 eye_cascade_path = 'data/haarcascade_eye.xml'
