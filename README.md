@@ -11,3 +11,9 @@
 
 
 **⚠️ 注意 ⚠️ 即席で作ったのでよく目線が外れます**
+
+OpenCV + Pythonで動きます。
+
+```shell
+python3 arufa_eye.py
+```
