@@ -7,4 +7,4 @@
 
 と、いうことで某ブロガーになるべく、目線を自動でつけるプログラムを作ってみました！
 
-![video](video.gif)
+![video](https://user-images.githubusercontent.com/46366459/181903931-4582a22a-5027-431f-a423-62625d79d065.gif)
